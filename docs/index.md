@@ -1,1 +1,7 @@
-# Hello VitePress
+---
+layout: doc
+---
+
+# タイトル
+
+## Hello World!
